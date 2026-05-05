@@ -10,14 +10,6 @@ You can download the original dataset from the following page:
 https://github.com/mostafa-saad/deep-activity-rec#dataset
 
 
-@inproceedings{msibrahiCVPR16deepactivity,
-  author    = {Mostafa S. Ibrahim and Srikanth Muralidharan and Zhiwei Deng and Arash Vahdat and Greg Mori},
-  title     = {A Hierarchical Deep Temporal Model for Group Activity Recognition.},
-  booktitle = {2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year      = {2016}
-}
-
-
 ### Tracking and grouping
 
 Grouping is a set of people involved in a primary group activity.
